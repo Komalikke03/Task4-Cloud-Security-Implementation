@@ -112,6 +112,7 @@ To verify security controls, multiple access attempts were tested:
 📷 Screenshots:
 ![Public Denied 1](images/9.png)
 ![Public Denied 2](images/10.png)
+![Public Denied 3](images/11.png)
 
 ---
 
@@ -128,7 +129,7 @@ Protect against accidental deletion or overwriting of files.
 * Verified multiple versions of objects.
 
 📷 Screenshot:
-![Versioning](images/11.png)
+![Versioning](images/12.png)
 
 ---
 
